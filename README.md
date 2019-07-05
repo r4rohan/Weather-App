@@ -3,4 +3,4 @@ Weather app that show your location weather. Backend is in JavaScript. For API I
 Darksky API : https://darksky.net
 Icons : https://darkskyapp.github.io/skycons/
 
-Check this app: weathersupervisor.firebaseapp.com
+Check this app: https://weathersupervisor.firebaseapp.com
